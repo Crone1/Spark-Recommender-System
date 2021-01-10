@@ -9,7 +9,7 @@ While both the Pig and Spark work was done using the Google Cloud Platform, the 
 
 # Running the code
 In order to run this code, you will need to:
-1. set up your own Google Cloud Platform cluster,
-2. run the code in the Pig_movieLens_cleaning.pig file,
+1. Set up your own Google Cloud Platform cluster,
+2. Run the code in the Pig_movieLens_cleaning.pig file,
 3. Create the jupyter notebook with the code in this repository,
 4. Run this developed recommender system.
